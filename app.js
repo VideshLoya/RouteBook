@@ -19,7 +19,7 @@ var commentRoutes = require("./routes/comments"),
     indexRoutes = require("./routes/index"),
     reviewRoutes = require("./routes/review");
 
-var url = process.env.DATABASE_URL || 'mongodb+srv://Manish:manish@cluster0-rn0jl.mongodb.net/yelp-camp?retryWrites=true&w=majority';
+var url = process.env.DATABASE_URL || 'DATABASE_URL';
 
 mongoose.connect(url, {
     useUnifiedTopology: true,
