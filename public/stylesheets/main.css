@@ -1,0 +1,103 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.checked {
+    color: orange;
+}
+
+#map {
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+#reviewHead {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#notHead {
+    margin-bottom: 40px;
+}
+
+#notList {
+    margin: 0 20%;
+}
+
+.commentButton {
+    margin: 5px;
+}
+
+.thumbnail .imgClass {
+    height: 255px;
+    object-fit: cover;
+}
+
+.thumbnail .imgShow {
+    height: 700px;
+    object-fit: cover;
+}
+
+.userName {
+    margin-bottom: 20px;
+}
+
+.userCard {
+    margin: 0 20%;
+}
+
+.thumbnail .userImage {
+    object-fit: cover;
+    height: 400px;
+}
+
+.userButton {
+    margin: 10px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 7.5%;
+    left: 5%;
+    right: 5%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #000000;
+}
+
+.imgThumb:hover .overlay {
+    opacity: 0.75;
+}
+
+.text {
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.imgText {
+    color: white;
+}
+
+#userCamp {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
