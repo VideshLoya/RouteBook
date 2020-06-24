@@ -12,24 +12,17 @@ interesting places, photos, ratings & reviews.
 # Authorization:
 
 * One cannot manage posts and view user profile without being authenticated
-* One cannot edit or delete posts and comments created by other users
+* One cannot edit or delete posts,comments and reviews created by other users
 
-# Manage campground posts with basic functionalities:
+# Functionalities:
 
-Create, edit and delete posts and comments
-
-Upload campground photos
-
-Display campground location on Google Maps
-
-Search existing campgrounds
-
-Manage user account with basic functionalities:
-
-Password reset via email confirmation (disabled)
-
-Profile page setup with sign-up
-
-Flash messages responding to users' interaction with the app
-
-Responsive web design
+* Create, edit and delete posts,comments and reviews 
+* Upload campground photos
+* Display campground location on Google Maps
+* Search existing campgrounds
+* Flash messages responding to users interaction with the app
+* Responsive web design
+* Display the time since post was created with Moment JS
+* Refactor callbacks with Async/Await
+* Background Animation on Landing page 
+* 
