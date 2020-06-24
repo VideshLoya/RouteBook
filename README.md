@@ -36,3 +36,6 @@ However, feel free to clone this repository if necessary.
 # Install Dependencies
 `npm install`
 
+# Deployment
+The app is deployed on Heroku platform.
+To see the app in action => https://hidden-spire-03300.herokuapp.com/
