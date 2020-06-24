@@ -7,12 +7,12 @@ interesting places, photos, ratings & reviews.
 # Features
 # Authentication:
 
-User login with username and password
+* User login with username and password
 
 # Authorization:
 
-*One cannot manage posts and view user profile without being authenticated
-*One cannot edit or delete posts and comments created by other users
+* One cannot manage posts and view user profile without being authenticated
+* One cannot edit or delete posts and comments created by other users
 
 # Manage campground posts with basic functionalities:
 
