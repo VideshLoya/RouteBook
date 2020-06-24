@@ -4,7 +4,7 @@ A single platform to publish and share routes for roadtrips – share
 and publish the best routes across the world with many
 interesting places, photos, ratings & reviews.
 
-# Features
+# Features:
 # Authentication:
 
 * User login with username and password
@@ -25,4 +25,14 @@ interesting places, photos, ratings & reviews.
 * Display the time since post was created with Moment JS
 * Refactor callbacks with Async/Await
 * Background Animation on Landing page 
-* 
+
+# Getting started
+This app contains API secrets and passwords that have been hidden deliberately, so the app cannot run with its features on your local machine. 
+However, feel free to clone this repository if necessary.
+
+# Clone or Download the repository
+`git clone https://github.com/VideshLoya/RouteBook.git`
+
+# Install Dependencies
+`npm install`
+
