@@ -1,19 +1,18 @@
 # RouteBook
 
-A single platform to publish and share routes for roadtrips – use
+A single platform to publish and share routes for roadtrips – share
 and publish the best routes across the world with many
 interesting places, photos, ratings & reviews.
 
 # Features
- * Authentication:
+# Authentication:
 
 User login with username and password
 
 # Authorization:
 
-One cannot manage posts and view user profile without being authenticated
-
-One cannot edit or delete posts and comments created by other users
+*One cannot manage posts and view user profile without being authenticated
+*One cannot edit or delete posts and comments created by other users
 
 # Manage campground posts with basic functionalities:
 
