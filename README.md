@@ -4,17 +4,17 @@ A single platform to publish and share routes for roadtrips – share
 and publish the best routes across the world with many
 interesting places, photos, ratings & reviews.
 
-# Features:
-# Authentication:
+# Features :
+# Authentication :
 
 * User login with username and password
 
-# Authorization:
+# Authorization :
 
 * One cannot manage posts and view user profile without being authenticated
 * One cannot edit or delete posts,comments and reviews created by other users
 
-# Functionalities:
+# Functionalities :
 
 * Create, edit and delete posts,comments and reviews 
 * Upload campground photos
