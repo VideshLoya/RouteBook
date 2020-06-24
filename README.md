@@ -5,7 +5,7 @@ and publish the best routes across the world with many
 interesting places, photos, ratings & reviews.
 
 # Features
-# Authentication:
+# *Authentication:
 
 User login with username and password
 
